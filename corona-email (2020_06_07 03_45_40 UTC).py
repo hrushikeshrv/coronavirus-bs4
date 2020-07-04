@@ -53,7 +53,7 @@ infections, deaths, recoveries, update_time, yesterdays_infections, newcases_tod
 
 def prepare_email():
 
-    recipients = ['hrushikeshvaidya2002@gmail.com', 'eeshapendse@gmail.com']
+    recipients = ['hrushikeshvaidya2002@gmail.com']
 
     #This is the body of the email. Use HTML& inline CSS to style.
     message_body = f"""
