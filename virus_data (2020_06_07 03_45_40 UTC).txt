@@ -1,0 +1,11 @@
+861 20 73 327 1338 https://who.int/docs/default-source/coronaviruse/situation-reports/20200326-sitrep-66-covid-19.pdf?sfvrsn=9e5b8b48_2 26 March 2020 553,634 24,545 127,589 1.0551 67
+902 20 83 328 0522 https://who.int/docs/default-source/coronaviruse/situation-reports/20200327-sitrep-67-covid-19.pdf?sfvrsn=b65f68eb_4 27 March 2020 597,267 27,365 133,363 1.0476 41 
+987 24 84 329 204 https://who.int/docs/default-source/coronaviruse/situation-reports/20200328-sitrep-68-covid-19.pdf?sfvrsn=384bc74c_2 28 March 2020 663,740 30,879 142,183 1.0476 85
+1024 27 95 330 301 https://who.int/docs/default-source/coronaviruse/situation-reports/20200329-sitrep-69-covid-19.pdf?sfvrsn=8d6620fa_2 29 March 2020 722,196 33,976 151,766 1.0942 85
+1251 32 102 331 134 https://who.int/docs/default-source/coronaviruse/situation-reports/20200330-sitrep-70-covid-19.pdf?sfvrsn=7e0fe3f8_2 30 March 2020 784,794 37,789 165,387 1.0375 37
+1397 35 123 401 206 https://who.int/docs/default-source/coronaviruse/situation-reports/20200331-sitrep-71-covid-19.pdf?sfvrsn=4360e92b_4 31 March 2020 858,669 42,151 178,099 1.2217 227
+1998 58 148 402 141 https://who.int/docs/default-source/coronaviruse/situation-reports/20200331-sitrep-71-covid-19.pdf?sfvrsn=4360e92b_8 31 March 2020 935,581 47,222 194,260 1.1167 146
+2567 72 192 404 403 https://who.int/docs/default-source/coronaviruse/situation-reports/20200403-sitrep-74-covid-19-mp.pdf?sfvrsn=4e043d03_4 03 April 2020 1,098,762 59,172 228,923 1.4302 601
+3588 99 229 405 249 https://who.int/docs/default-source/coronaviruse/situation-reports/20200404-sitrep-75-covid-19.pdf?sfvrsn=99251b2b_2 04 April 2020 1,201,964 64,727 246,638 1.2848 569
+4288 117 328 406 148 https://who.int/docs/default-source/coronaviruse/situation-reports/20200405-sitrep-76-covid-19.pdf?sfvrsn=6ecf0977_2 05 April 2020 1,273,499 69,451 262,351 1.3977 1021
+4778 136 375 407 307 https://who.int/docs/default-source/coronaviruse/situation-reports/20200406-sitrep-77-covid-19.pdf?sfvrsn=21d1e632_2 06 April 2020 1,346,966 74,702 278,698 1.1951 700
