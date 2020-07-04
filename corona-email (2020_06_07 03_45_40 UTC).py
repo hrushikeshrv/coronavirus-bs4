@@ -53,7 +53,7 @@ infections, deaths, recoveries, update_time, yesterdays_infections, newcases_tod
 
 def prepare_email():
 
-    recipients = ['hrushikeshvaidya2002@gmail.com']
+    recipients = ['recipient1@gmail.com', 'recipient2@gmail.com']
 
     #This is the body of the email. Use HTML& inline CSS to style.
     message_body = f"""
@@ -72,8 +72,8 @@ def prepare_email():
 	    
 	    
 	    #Authenticating with the server
-	    address = 'hrushikeshspython@gmail.com'
-	    password = 'ewidbsnfhbshtpox'
+	    address = 'yourexample@email.com'
+	    password = 'yourpassword'
 	    s = smtplib.SMTP(host='smtp.gmail.com', port=587)
 	    s.ehlo()
 	    s.starttls()
