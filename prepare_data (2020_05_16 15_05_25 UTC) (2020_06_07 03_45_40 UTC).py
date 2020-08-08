@@ -238,8 +238,8 @@ def sendemail():
 	    
 	    
 	    #Authenticating with the server
-	    address = 'hrushikeshspython@gmail.com'
-	    password = 'ewidbsnfhbshtpox'
+	    address = 'youremail@gmail.com'
+	    password = 'example'
 	    s = smtplib.SMTP(host='smtp.gmail.com', port=587)
 	    s.ehlo()
 	    s.starttls()
